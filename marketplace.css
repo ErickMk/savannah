@@ -1,0 +1,15 @@
+/* i set the dimensions of the iframe */
+img{
+    /* i set 3 images wide using percentage */
+    width: 10.8%;
+    max-height: 25%;
+    aspect-ratio: 3 / 4;
+    border: 1px solid black;
+    object-fit: cover;
+}
+
+/* Hover effect: grow the image */
+img:hover {
+    transform: scale(2.0);
+    z-index: 1; /* bring hovered image to front */
+}

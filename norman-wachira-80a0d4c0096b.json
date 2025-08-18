@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "norman-wachira",
+  "private_key_id": "80a0d4c0096b3b7b176ab0415f43955cc597a77f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1o3VZe4q4MI7G\nowpcsMuUu4SR2tCQHkReDwT7wjH+2RTEgF+56X881rZQaIet1pUeYCH8ciDriD6o\nzbuOHrDTAyz8vCt5zVB+Ao0C+ZOy01f6q855/njCM/kB/+Qxa1DxU6sDMWAKyIjJ\nDf2xBBclBhHd1HCYCEWz13SQEjn5Giw/fJn7Q6SrU8C3KP5iZ0lFESEw73bz0LSF\nBoyT/yr45PvIOMSgO2PU+19SOpxrJr4U920K2vTeb2nFJeLnupxUE+hwnjw64Kd+\nbjF7iEf1JbZ1D1r0Qsae11s2/eeI4pHRGI6cAEMZjQ2wsaen121XO8fyBRruHajJ\niVAQTdIRAgMBAAECggEAEvYk5nn8obzD8t2LU+DK59RpgvZmRl06gt0rhoKfyHxt\n7BOAqr5C352Ee8FlxJJ9j6W2do2NfTkEXYfYl/4BNI4E0L9uBHGYAQeQI+rc7dKd\nQRhVXivf/FoDmR9W+Ye78+1pkVRCs+16Rg7VWHjWV7GaBN/L/zsB18Pasb2NWsEg\nqZgtFFETMEI/ywu99lsLOPUWf1j68n451LZfM1vOjhmVCK4SeTOZR+EjAllE5NI2\nYIXPjMF22P5/E96mY09tnIEscOACVX34GAPUUt189ZC7PRkSeybVMot9j1l2LN9E\nf47CTARCcqGWu7cywWuuUieCMQMdcmDraUwAYvgVLwKBgQD6/9b9EJfrGriX2Aro\nhXq02lwsMP4jBRE8kiiWxiMQadZ44o9gPwZU6Pp+kDfB+wyGI+MmMCdm3GLGLvM6\n+8qaJDdqvebcUpzHMsnWJyw+nB/G9Tuz3gWJnQPcXvP8AjdPkFFrNcszhhWXcbxD\nZmFS8CUO1BRjJLQ3U+K753lgKwKBgQC5QdxUz6YTDtJZrFbLCmgFZwwDaIwnx5Bn\nBOBlSNYGxI9usy4N6eBX0HdjGz6LtKF6zNUJVeIZhnFK6M9RgTBaWRE8FSXm0gIl\nogakm1TD4MCbJS/jBfNJMQXWoleU46gVQ3sqQVkFg7ZGNShNA6Xlf7Kr2eucnvvt\nMfHgg3C8swKBgQCY4agjcC34Z8gzxMWwJ008RxyJVjYVQorjJ+tNGtZUswKNkwHd\nj8XdhiK9YD52CuHv+n/qzL3TKz2GlSZVsPQQuyp9+7lYTYFs24SQyj9qy1GXr9tz\njTI2RcsKOVPHFdp2veK5uIRSl8MjAYW4T+3LxLXtuEPKt5qFcLTT2wPVDQKBgF/E\nizkQqyKY++a9b5TAyWtZjN1KM4Hw6VZIMBRL5dBT1m38lKc+qunaa41BLUEdXIjV\n0J9l1V8qn/CAj4Pry+o4tu8fY5uCHvgDXXnEjro/unG5dJrgnZbNj94XyDzAv0hW\nvRnn9DQklZqPqki9xQnxzJSIMAOkMEm7EvXkHOh/AoGBALFKxz3GGIiXXc4IPwjE\nBfLzsdI3/4Ia2QfHEdpzXkWC8kCdO4UvVxpXPSE0LVGuG8w6X/DZRIuRvYJyceKR\njC5sPvAxtoOe6eSlRBv7o1FR/mWhbeP7Mft2pRIW8PWdNmstMjNkWq9MH1T+OkVa\n/dIJ8MJ153LXbgEDYl21H/6D\n-----END PRIVATE KEY-----\n",
+  "client_email": "norman-wachira@norman-wachira.iam.gserviceaccount.com",
+  "client_id": "115988180705558521467",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/norman-wachira%40norman-wachira.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

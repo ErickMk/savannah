@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Savannah View</title>
+        <!-- here I separate and link two css for my savannah page grid and for the iframe section -->
+        <link rel="stylesheet" href="grid.css">
+        <link rel="stylesheet" href="marketplace.css">
+        <!--Here i link The script. the script switches the grid to show the selected folder's images.-->
+        <script type="module">
+            import { savannah } from './savannah.js';
+            //
+            // here I create an instance of the savannah class and i have chosen to call it app
+            const app = new savannah();
+            //
+            // initialize the savannah
+            await app.init();
+            //
+            // show the iframes in folder 1
+            app.switch_folder("11DmOBwfSIon4KP6BJKXXn_-pqaBGRlUy");
+            //
+            //make app a Global variable
+            window.app = app;
+        </script>
+    </head>
+    <!--here I setup our grid and declare the classes-->
+    <body>
+        <!--this is the header section-->
+        <div class="header">
+            <h1>Savannah View</h1>
+            <label>
+                <input type="radio" name="viewMode" id="radio-thumbnails" value="thumbnails" checked
+                        onchange=" app.switch_view('thumbnails')">
+                Thumbnails
+            </label>
+            <label>
+                <input type="radio" name="viewMode" id="radio-blob" value="blob"
+                        onchange="app.switch_view('blob')">
+                Blob
+            </label>
+        </div>
+
+        <!--this is the folders section. -->
+        <div class="folders">
+            <h2>Folders</h2>
+        </div>
+
+        <!--this is the image iframes section-->
+        <div id="marketplace" class="marketplace"></div>
+    </body>
+</html>
